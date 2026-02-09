@@ -69,14 +69,17 @@ The **Summary** tab is designed as an executive view with:
 
 ## 📊 Dashboard Preview (Summary Tab)
 
-| Baseline | Cost Control |
-|---|---|
-| ![Baseline Summary](images/summary_baseline.png) | ![Cost Control Summary](images/summary_cost_control.png) |
+### Baseline
+![Baseline Summary](images/summary_baseline.png)
 
-| Quality Investment | Stress Case |
-|---|---|
-| ![Quality Investment Summary](images/summary_quality_invest.png) | ![Stress Case Summary](images/summary_stress_case.png) |
+### Cost Control
+![Cost Control Summary](images/summary_cost_control.png)
 
+### Quality Investment
+![Quality Investment Summary](images/summary_quality_invest.png)
+
+### Stress Case
+![Stress Case Summary](images/summary_stress_case.png)
 
 ---
 
