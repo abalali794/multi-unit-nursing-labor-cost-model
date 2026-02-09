@@ -28,27 +28,22 @@ Rather than focusing only on wages, the model highlights how **staffing intensit
 ### 💰 1. Med-Surg is the Primary Cost Driver — by Scale, Not Inefficiency
 Across all scenarios, **Med-Surg accounts for the largest share of total nursing labor cost**, driven by high patient volume rather than unusually high cost per unit. Small changes in staffing ratios or agency utilization in Med-Surg produce **outsized financial impact**, making it the most leverageable unit for cost management initiatives.
 
----
 
 ### 🏥 2. ICU Cost per Unit Is Structurally High — and Largely Non-Negotiable
 The ICU consistently exhibits the **highest cost per service unit**, reflecting higher staffing intensity, acuity, and limited flexibility in nurse-to-patient ratios. Cost control strategies in ICU are therefore more constrained and must prioritize **retention and agency management** rather than pure staffing reductions.
 
----
 
 ### 🚑 3. ED Is Volume-Driven — Low Cost per Visit, High Sensitivity
 The ED shows the **lowest cost per visit**, but the **highest service volume**, making it extremely sensitive to demand fluctuations. Even modest increases in ED volume or RN hours per visit can materially increase total labor cost, despite appearing “efficient” on a per-unit basis.
 
----
 
 ### 🔄 4. Agency Reduction Shifts Pressure — It Does Not Eliminate Cost
 Scenarios that reduce agency utilization successfully lower premium labor spend, but often **shift pressure to core staff capacity**, increasing exposure to overtime or turnover risk if staffing levels are not adjusted concurrently. The model demonstrates that **agency reduction without capacity planning is not cost-free**.
 
----
 
 ### 🧩 5. Turnover & Vacancy Costs Are a Hidden, Material Expense
 Turnover and vacancy coverage costs represent a **non-trivial portion of total labor expense**, particularly in stress scenarios. Improving retention produces meaningful savings by reducing replacement cost **and** the downstream need for agency or overtime coverage—an insight often missed in wage-only analyses.
 
----
 
 ### ⚖️ 6. Cost Control vs Quality Investment Is a Trade-Off — Not a Binary Choice
 The scenario framework illustrates that:
