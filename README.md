@@ -145,7 +145,7 @@ Each unit has a dedicated detailed calculation block that:
 - Adds **turnover/vacancy cost** using effective turnover + vacancy coverage logic
 - Produces clean outputs for rollup
 
-![Calculations](images/calculations.png)
+![Calculations](images/model.png)
 
 ### 3) **Summary Tab (Executive Rollup)**
 The Summary tab contains **no heavy calculations**—it pulls results from each unit and presents:
