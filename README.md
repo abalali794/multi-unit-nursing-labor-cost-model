@@ -55,14 +55,12 @@ This reinforces that nursing labor decisions require **balanced, system-level th
 
 ---
 
-## Dashboard Preview (Summary Tab)
+## 📊 Dashboard Preview (Summary Tab)
 
 The **Summary** tab is designed as an executive view with:
 - Unit-level rollup table (Total Labor Cost, Agency $, OT%, Turnover/Vacancy $, Cost/Unit, Volume)
 - Stacked cost breakdown chart by unit
 - Combo chart (Cost/Unit vs Service Volume)
-
-## 📊 Dashboard Preview (Summary Tab)
 
 ### Baseline
 ![Baseline Summary](images/summary_baseline.png)
@@ -75,6 +73,56 @@ The **Summary** tab is designed as an executive view with:
 
 ### Stress Case
 ![Stress Case Summary](images/summary_stress_case.png)
+
+---
+
+## 📌 Recommendations
+
+Based on the scenario analysis and unit-level cost dynamics, the following actions are recommended to balance **financial sustainability, workforce stability, and quality of care**.
+
+
+### 🧮 1. Prioritize Med-Surg for System-Wide Cost Impact
+Given its scale, **Med-Surg should be the primary target for labor optimization initiatives**. Even small improvements in staffing efficiency, agency reduction, or turnover in this unit generate materially larger savings than equivalent changes elsewhere.
+
+**Recommended actions:**
+- Focus retention initiatives and staffing process improvements in Med-Surg first  
+- Pilot scheduling, float pool, or productivity interventions in Med-Surg before scaling system-wide  
+
+
+### 🛡️ 2. Treat ICU Staffing as a Quality-Sensitive Cost Structure
+ICU labor costs are structurally high and less flexible due to patient acuity and regulatory constraints. Attempts to aggressively reduce staffing risk shifting costs into turnover, agency reliance, or quality degradation.
+
+**Recommended actions:**
+- Emphasize **retention, experience mix, and agency containment** rather than staffing cuts  
+- Monitor cost per unit alongside turnover and agency share to avoid false “savings”  
+
+
+### 🚨 3. Actively Monitor ED Demand Volatility
+While ED cost per visit appears low, the ED’s high volume makes it highly sensitive to changes in demand or staffing intensity. Volume shocks can rapidly escalate total labor cost if not anticipated.
+
+**Recommended actions:**
+- Use rolling volume forecasts to proactively adjust RN capacity  
+- Maintain flexible staffing mechanisms to absorb short-term demand surges  
+
+
+### 🔄 4. Reduce Agency Reliance Through Capacity, Not Just Policy
+The model demonstrates that **reducing agency utilization without increasing core capacity** often shifts cost pressure to overtime or turnover rather than eliminating it.
+
+**Recommended actions:**
+- Pair agency reduction targets with core RN capacity planning  
+- Track downstream effects on OT hours and turnover when agency use is constrained  
+
+
+### 🔁 5. Invest in Retention as a Cost-Control Strategy
+Turnover and vacancy costs represent a meaningful and recurring expense across all scenarios. Improving retention reduces **replacement costs and premium labor coverage**, compounding financial benefits over time.
+
+**Recommended actions:**
+- Evaluate retention programs using avoided turnover and agency cost, not just wage expense  
+- Incorporate turnover sensitivity into labor budgeting and long-term planning  
+
+
+### 🧠 Final Takeaway
+Nursing labor cost management is not a wage problem—it is a **systems problem**. The most effective strategies align **demand, staffing intensity, labor mix, and retention** rather than optimizing any single lever in isolation.
 
 ---
 
@@ -158,7 +206,7 @@ Key inputs are editable in the assumptions section:
 - Turnover rate, replacement cost per RN, vacancy weeks per hire, vacancy coverage mix
 - Unit operational drivers (beds, occupancy, ratios, ED visits, RN hours per ED visit)
 
-
+![Scenarios & Inputs](images/scenarios_inputs.png)
 
 ## 🎯 Why This Model Matters
 
