@@ -1,6 +1,6 @@
 # Multi-Unit Nursing Salary Model (Med-Surg | ICU | ED)
 
-A scenario-driven nursing labor planning model that translates patient demand into required RN hours, staffing capacity, and total labor cost across **Med-Surg, ICU, and Emergency Department**. The model highlights key cost drivers—including **agency utilization, overtime pressure, and turnover/vacancy cost**—and rolls unit-level calculations into an executive-ready Summary dashboard.
+A scenario-driven nursing labor planning model that translates patient demand into required RN hours, staffing capacity, and total labor cost across **Med-Surg, ICU, and Emergency Department**. The model highlights key cost drivers—including **agency utilization, overtime pressure, and turnover/vacancy cost**—and rolls unit-level calculations into a summary dashboard.
 
 ---
 
