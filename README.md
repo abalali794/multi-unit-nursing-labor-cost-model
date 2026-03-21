@@ -101,7 +101,7 @@ The model demonstrates that reducing agency utilization without increasing core 
 This model follows a professional structure used in healthcare finance:
 
 ### 1) **Assumptions / Scenarios (Inputs Engine)**
-A centralized assumptions area stores:
+Assumptions area stores:
 - Pay assumptions (base wage, OT multiplier, benefits load, shift differential, agency rate)
 - Turnover & vacancy assumptions (replacement cost, vacancy duration, coverage mix)
 - Unit operational assumptions (beds, occupancy, nurse-to-patient ratios, ED visits, RN hours per ED visit)
@@ -109,16 +109,16 @@ A centralized assumptions area stores:
 
 ### 2) **Unit Detail Tabs (Calculation Engine)**
 Each unit has a dedicated detailed calculation block that:
-- Converts demand → **required RN hours**
-- Splits hours into **core vs agency vs OT**
-- Converts hours → **wage cost + benefits**
-- Adds **turnover/vacancy cost** using effective turnover + vacancy coverage logic
+- Converts demand → required RN hours
+- Splits hours into core vs agency vs OT
+- Converts hours → wage cost + benefits
+- Adds turnover/vacancy cost using effective turnover + vacancy coverage logic
 - Produces clean outputs for rollup
 
 ![Calculations](images/model.png)
 
-### 3) **Summary Tab (Executive Rollup)**
-The Summary tab contains **no heavy calculations**—it pulls results from each unit and presents:
+### 3) **Summary Tab/ Rollup**
+The Summary tab contains no heavy calculations—it pulls results from each unit and presents:
 - Side-by-side unit performance
 - Visuals that update instantly when the scenario changes
 
@@ -148,7 +148,7 @@ The scenario dropdown updates all units simultaneously using multipliers:
 
 ## Core Method (High-level logic)
 
-### Inpatient Units (Med-Surg, ICU)
+### Med-Surg and ICU Units
 1. **Patient Days / Year** = Beds × Occupancy × 365 (scenario-adjusted)
 2. **Required RN Hours** = Patient Days × HPPD (scenario-adjusted via staffing ratio)
 3. **Agency Hours** = Required Hours × Agency %
@@ -171,9 +171,9 @@ The scenario dropdown updates all units simultaneously using multipliers:
 
 ---
 
-## Assumptions (Editable Inputs)
+## Assumptions
 
-Key inputs are editable in the assumptions section:
+Key inputs are:
 - Base RN hourly wage, agency rate, benefits %, OT multiplier, shift differential
 - Turnover rate, replacement cost per RN, vacancy weeks per hire, vacancy coverage mix
 - Unit operational drivers (beds, occupancy, ratios, ED visits, RN hours per ED visit)
@@ -186,6 +186,4 @@ This model is designed to support:
 - **Healthcare finance teams** evaluating labor budgets
 - **Operations leaders** assessing staffing sustainability
 - **Strategic planning** discussions around cost, quality, and workforce stability
-
-By integrating demand, staffing, and labor economics into one framework, the model enables more **transparent, defensible, and data-driven decisions** around one of the largest cost centers in healthcare.
 
