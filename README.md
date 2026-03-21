@@ -15,21 +15,19 @@ A scenario-driven nursing labor planning model that translates patient demand in
 
 ## 🧠 Executive Summary
 
-This project is a scenario-driven nursing labor cost model designed to help healthcare leaders understand how operational decisions translate into staffing demand, labor mix, and total cost across Med-Surg, ICU, and Emergency Department (ED) units.
+This project is a scenario-driven nursing labor cost model designed to help leaders understand how operational decisions translate into staffing demand, labor mix, and total cost across Med-Surg, ICU, and Emergency Department (ED) units.
 
-The model converts patient demand (beds, occupancy, ED visits) into required RN hours, allocates those hours across core staff, agency, and overtime**, and incorporates the full economic impact of turnover and vacancy coverage. Unit-level calculations are rolled into an executive Summary dashboard that allows leadership to evaluate trade-offs between **cost control, quality investment, and operational stress in real time.
-
-Rather than focusing only on wages, the model highlights how **staffing intensity, agency reliance, and retention dynamics** materially change labor cost—often more than hourly pay alone. This framework mirrors how nursing labor decisions are evaluated in real hospital finance and operations settings.
+The model converts patient demand (beds, occupancy, ED visits) into required RN hours, allocates those hours across core staff, agency, and overtime, and incorporates the full financial impact of turnover and vacancy coverage. Unit-level calculations are rolled into a summary dashboard that allows leadership to evaluate trade-offs between cost control, quality investment, and operational stress in real time.
 
 ---
 
 ## 🔍 Key Findings & Insights
 
-### 💰 1. Med-Surg is the Primary Cost Driver — by Scale, Not Inefficiency
+### 💰 1. Med-Surg is the Primary Cost Driver by Scale, Not Inefficiency
 Across all scenarios, Med-Surg accounts for the largest share of total nursing labor cost, driven by high patient volume rather than unusually high cost per unit. Small changes in staffing ratios or agency utilization in Med-Surg produce outsized financial impact, making it the most leverageable unit for cost management initiatives.
 
 
-### 🏥 2. ICU Cost per Unit Is Structurally High — and Largely Non-Negotiable
+### 🏥 2. ICU Cost per Unit Is Structurally High and Largely Non-Negotiable
 The ICU consistently exhibits the highest cost per service unit, reflecting higher staffing intensity, acuity, and limited flexibility in nurse-to-patient ratios. Cost control strategies in ICU are therefore more constrained and must prioritize retention and agency management rather than pure staffing reductions.
 
 
@@ -41,11 +39,11 @@ The ED shows the lowest cost per visit, but the highest service volume, making i
 Scenarios that reduce agency utilization successfully lower premium labor spend, but often shift pressure to core staff capacity, increasing exposure to overtime or turnover risk if staffing levels are not adjusted concurrently. The model demonstrates that agency reduction without capacity planning is not cost-free.
 
 
-### 🧩 5. Turnover & Vacancy Costs Are a Hidden, Material Expense
+### 🧩 5. Turnover & Vacancy Costs Are a Hidden Expense
 Turnover and vacancy coverage costs represent a non-trivial portion of total labor expense, particularly in stress scenarios. Improving retention produces meaningful savings by reducing replacement cost and the downstream need for agency or overtime coverage—an insight often missed in wage-only analyses.
 
 
-### ⚖️ 6. Cost Control vs Quality Investment Is a Trade-Off — Not a Binary Choice
+### ⚖️ 6. Cost Control vs Quality Investment Is a Trade-Off
 The scenario framework illustrates that:
 - **Cost control** strategies reduce total spend but may increase staffing pressure
 - **Quality investment** strategies raise labor cost while improving staffing intensity and reducing turnover
@@ -82,47 +80,19 @@ Based on the scenario analysis and unit-level cost dynamics, the following actio
 
 
 ### 🧮 1. Prioritize Med-Surg for System-Wide Cost Impact
-Given its scale, Med-Surg should be the primary target for labor optimization initiatives. Even small improvements in staffing efficiency, agency reduction, or turnover in this unit generate materially larger savings than equivalent changes elsewhere.
-
-**Recommended actions:**
-- Focus retention initiatives and staffing process improvements in Med-Surg first  
-- Pilot scheduling, float pool, or productivity interventions in Med-Surg before scaling system-wide  
+Given its scale, Med-Surg should be the primary target for labor optimization initiatives. Even small improvements in staffing efficiency, agency reduction, or turnover in this unit generate larger savings than equivalent changes elsewhere.
 
 
 ### 🛡️ 2. Treat ICU Staffing as a Quality-Sensitive Cost Structure
 ICU labor costs are structurally high and less flexible due to patient acuity and regulatory constraints. Attempts to aggressively reduce staffing risk shifting costs into turnover, agency reliance, or quality degradation.
 
-**Recommended actions:**
-- Emphasize **retention, experience mix, and agency containment** rather than staffing cuts  
-- Monitor cost per unit alongside turnover and agency share to avoid false “savings”  
-
 
 ### 🚨 3. Actively Monitor ED Demand Volatility
 While ED cost per visit appears low, the ED’s high volume makes it highly sensitive to changes in demand or staffing intensity. Volume shocks can rapidly escalate total labor cost if not anticipated.
 
-**Recommended actions:**
-- Use rolling volume forecasts to proactively adjust RN capacity  
-- Maintain flexible staffing mechanisms to absorb short-term demand surges  
 
-
-### 🔄 4. Reduce Agency Reliance Through Capacity, Not Just Policy
+### 🔄 4. Reduce Agency Reliance Through Capacity
 The model demonstrates that reducing agency utilization without increasing core capacity often shifts cost pressure to overtime or turnover rather than eliminating it.
-
-**Recommended actions:**
-- Pair agency reduction targets with core RN capacity planning  
-- Track downstream effects on OT hours and turnover when agency use is constrained  
-
-
-### 🔁 5. Invest in Retention as a Cost-Control Strategy
-Turnover and vacancy costs represent a meaningful and recurring expense across all scenarios. Improving retention reduces **replacement costs and premium labor coverage**, compounding financial benefits over time.
-
-**Recommended actions:**
-- Evaluate retention programs using avoided turnover and agency cost, not just wage expense  
-- Incorporate turnover sensitivity into labor budgeting and long-term planning  
-
-
-### 🧠 Final Takeaway
-Nursing labor cost management is not a wage problem—it is a systems problem. The most effective strategies align demand, staffing intensity, labor mix, and retention** rather than optimizing any single lever in isolation.
 
 ---
 
